@@ -27,3 +27,7 @@ nav{
     display: flex;
 
 }
+img{
+    max-width: 20vw;
+
+}
