@@ -1,9 +1,11 @@
 body{
    background-color: #030E21;
+   color: white;
 }
 a{
     text-decoration: none;
-    color: FFFFFF;
+    color: #FFFFFF;
+ 
     font-size: 25px;
 }
 
@@ -11,10 +13,17 @@ nav{
    display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: darkcyan;
     min-height: 10vh;
     align-items: center; 
 }
 .bandeau-techno{
    background-color: #542D51;
+   min-height: 5vh;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.accueil{
+    display: flex;
+
 }
